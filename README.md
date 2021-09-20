@@ -56,6 +56,9 @@
 
 
 ## 📈 __STATS__
-<img src="https://github-readme-stats.vercel.app/api?username=oiken98&&show_icons=true&title_color=ffffff&icon_color=FFB300&text_color=daf7dc&bg_color=9CCC65">
-
-
+<a href="https://github-readme-stats.vercel.app/api?username=oiken98&&show_icons=true&count_private=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oiken98&&show_icons=true&count_private=true&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oiken98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiken98" />
+</a>
