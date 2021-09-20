@@ -24,7 +24,7 @@
     - Cypher <img align="left" alt="cypher" width="26px" src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" />
   - ### Data Analysis & Machine Learning 
     - Keras <img align="left" alt="keras" width="26px" src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png" />
-    - Scikit-learn <img align="left" alt="sklearn" width="26px" src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" />
-    - Pandas <img align="left" alt="pandas" width="26px" src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" />
-    - Numpy <img align="left" alt="numpy" width="26px" src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" />
-    - Matplotlib <img align="left" alt="plt" width="26px" src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" />
+    - Scikit-learn <img align="left" alt="sklearn" width="26px" src="https://hadrienj.github.io/assets/images/icons/sklearn.png" />
+    - Pandas <img align="left" alt="pandas" width="26px" src="https://p.kindpng.com/picc/s/16-161512_panda-kawaii-tumblr-blackandwhite-panda-sticker-png-transparent.png" />
+    - Numpy <img align="left" alt="numpy" width="26px" src="http://teaching.mrsharky.com/theme/icons/numpy_icon.png" />
+    - Matplotlib <img align="left" alt="plt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" />
