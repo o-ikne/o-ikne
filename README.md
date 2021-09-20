@@ -2,5 +2,4 @@
 - 🏫 I'm currently a student in data science at the [University of Lille](https://www.univ-lille.fr/)
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Science
 - 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 How to reach me
-      - [linkedin - Iken Omar](linkedin.com/in/omar-ikne-144319183)
+- 📫 How to reach me: [linkedin - Iken Omar](linkedin.com/in/omar-ikne-144319183)
