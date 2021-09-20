@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me: [linkedIn - Iken Omar](http://www.linkedin.com/in/omar-iken-144319183)
 
-<img src="https://github-readme-stats.vercel.app/api?username=oiken98&&show_icons=true&title_color=ffffff&icon_color=FFFF00&text_color=daf7dc&bg_color=FF4500">
+<img src="https://github-readme-stats.vercel.app/api?username=oiken98&&show_icons=true&title_color=ffffff&icon_color=FFB300&text_color=daf7dc&bg_color=9CCC65">
