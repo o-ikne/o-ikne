@@ -62,3 +62,6 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oiken98">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiken98" />
 </a>
+
+## 📝 __Resume__
+<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
