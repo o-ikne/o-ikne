@@ -64,4 +64,4 @@
 </a>
 
 ## 📝 __Resume__
-<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/oiken98/oiken98/tree/main/Resume/CV - IKEN OMAR.pdf" target="_blank">English CV</a>
