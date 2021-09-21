@@ -63,5 +63,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiken98" />
 </a>
 
-## 📝 __Resume__
+## 📝 __RESUME__
 - <a href="https://oiken98.github.io/Resume/CV - IKEN OMAR.pdf" target="_blank">English CV</a>
