@@ -29,7 +29,7 @@
     
   - ### Data Analysis & Machine Learning
     
-    - PyTorch <img align="left" alt="torch" width="26px" src="http://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" />
+    - PyTorch <img align="left" alt="torch" width="30px" src="http://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" />
     
     - Keras <img align="left" alt="keras" width="26px" src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png" />
     
