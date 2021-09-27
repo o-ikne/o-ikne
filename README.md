@@ -28,8 +28,7 @@
     - Cypher <img align="left" alt="cypher" width="26px" src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" />
     
   - ### Data Analysis & Machine Learning
-    
-    - PyTorch <img align="left" alt="torch" width="30px" src="http://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" />
+    - PyTorch <img align="left" alt="torch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" />
     
     - Keras <img align="left" alt="keras" width="26px" src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png" />
     
