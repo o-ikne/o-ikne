@@ -27,7 +27,10 @@
     
     - Cypher <img align="left" alt="cypher" width="26px" src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" />
     
-  - ### Data Analysis & Machine Learning 
+  - ### Data Analysis & Machine Learning
+    
+    - PyTorch <img align="left" alt="torch" width="26px" src="http://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" />
+    
     - Keras <img align="left" alt="keras" width="26px" src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png" />
     
     - Scikit-learn <img align="left" alt="sklearn" width="26px" src="https://hadrienj.github.io/assets/images/icons/sklearn.png" />
