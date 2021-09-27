@@ -11,6 +11,8 @@
 
 - [<img align="left" alt="email" width="22px" src="https://icon-library.com/images/icon-email-png/icon-email-png-0.jpg" />](mailto:omar.iken@protonmail.com)[omar.iken@protonmail.com](mailto:omar.iken@protonmail.com)
 
+- [<img align="left" alt="github" width="26px" src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" />](https://oiken98.github.io)[https://oiken98.github.io](https://oiken98.github.io)
+
 
 ## 👩‍💻 __IT SKILLS__
   - ### Languages 
