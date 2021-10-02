@@ -62,11 +62,11 @@
 
 
 ## 📈 __STATS__
-<a href="https://github-readme-stats.vercel.app/api?username=oiken98&&show_icons=true&count_private=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oiken98&&show_icons=true&count_private=true&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api?username=o-ikne&&show_icons=true&count_private=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-ikne&&show_icons=true&count_private=true&theme=radical" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oiken98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiken98" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=o-ikne">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-ikne" />
 </a>
 
 
