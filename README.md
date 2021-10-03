@@ -57,7 +57,7 @@
 
   - Most used Languages:
   
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-ikne&theme=merko" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-ikne&theme=merko&layout=compact" />
 
   - Visitor Count : 
   
