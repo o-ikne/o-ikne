@@ -1,10 +1,12 @@
 ## 👨‍💼 __ABOUT ME__ !
+
+<img align="right" alt="github" width="150px" src="https://o-ikne.github.io/images/qrcode.png" />
+
 - 👋 ```Hello, World !```, I’m __IKNE Omar__
 - 🏫 I'm currently a student in data science at the [University of Lille](https://www.univ-lille.fr/)
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Science
 - 💞️ I’m looking to collaborate on Machine Learning projects 
 - To know more about me, check out my portfolio or my CV below 👇
-
 
 ## 📫 __CONTACT__
 
