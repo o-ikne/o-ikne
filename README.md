@@ -68,3 +68,10 @@
 
 ## 📝 __RESUME__
 - <a href="https://o-ikne.github.io/Resume/CV - IKNE OMAR.pdf" target="_blank">CV (English version)</a>
+
+##
+
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
