@@ -46,10 +46,7 @@
 
   - #### Operating Systems
     - <img align="left" alt="linux" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" />
-      <img align="left" alt="windows" width="26px" src="https://www.shareicon.net/data/512x512/2015/09/16/101922_windows_512x512.png" />
-
-## 🗣 __LANGUAGES__
-  - English (ABC) - Frensh (ABC) - Arabic (‫اب ت‬) - Tamazight (ⴰⵣⵛ) 
+      <img align="left" alt="windows" width="26px" src="https://www.shareicon.net/data/512x512/2015/09/16/101922_windows_512x512.png" /> 
 
 
 ## 📈 __STATS__
