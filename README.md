@@ -61,7 +61,7 @@
   
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-ikne&theme=merko&layout=compact" />
 
-  - Visitor Count : 
+  - Visitor Count: 
   
     ![Visitor Count](https://profile-counter.glitch.me/{o-ikne}/count.svg)
 
