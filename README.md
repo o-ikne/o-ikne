@@ -64,7 +64,7 @@
 
 
 ## 📝 __RESUME__
-- <a href="https://o-ikne.github.io/Resume/CV - IKNE OMAR.pdf" target="_blank">CV (English version)</a>
+- <a href="https://o-ikne.github.io/Resume/CV - IKNE OMAR (EN).pdf" target="_blank">CV (English version)</a>
 
 ##
 
