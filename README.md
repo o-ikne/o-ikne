@@ -12,8 +12,6 @@
 
 - [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/omar-ikne-144319183) [linkedin.com/in/omar-ikne](http://linkedin.com/in/omar-ikne-144319183)
 
-- [<img align="left" alt="email" width="22px" src="https://icon-library.com/images/icon-email-png/icon-email-png-0.jpg" />](mailto:omar.iken@protonmail.com)[omar.iken@protonmail.com](mailto:omar.iken@protonmail.com)
-
 - [<img align="left" alt="github" width="26px" src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" />](https://o-ikne.github.io)[https://o-ikne.github.io](https://o-ikne.github.io)
 
 
