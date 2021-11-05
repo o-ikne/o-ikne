@@ -4,7 +4,7 @@
 
 - 👋 ```Hello, World !```, I’m __IKNE Omar__
 - 🏫 I'm currently a student in data science at the [University of Lille](https://www.univ-lille.fr/)
-- 👀 I’m interested in Machine Learning & Artificial Intelligence
+- 👀 I’m interested in Machine Learning, Deep Learning & Artificial Intelligence
 - 💞️ I’m looking to collaborate on Machine Learning projects 
 - To know more about me, check out my portfolio 👉 or my CV below 👇
 
