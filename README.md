@@ -17,34 +17,34 @@
 
 ## 👩‍💻 __IT SKILLS__
   - #### Languages 
-    - <img align="left" alt="Python" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" />
-      <img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
-      <img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
-      <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
+    - <img title="Python" align="left" alt="Python" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" />
+      <img title="R" align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
+      <img title="Matlab" align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
+      <img title="JavaScript" align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
     
   - #### Databases 
-    - <img align="left" alt="sql" width="26px" src="http://www.faceofit.com/wp-content/uploads/2016/04/logoAzureSql.png" />
-      <img align="left" alt="cypher" width="26px" src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" />
+    - <img title="SQL" align="left" alt="sql" width="26px" src="http://www.faceofit.com/wp-content/uploads/2016/04/logoAzureSql.png" />
+      <img title="Cypher" align="left" alt="cypher" width="26px" src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" />
     
   - #### Data Analysis & Machine Learning
-    - <img align="left" alt="torch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" />
-      <img align="left" alt="keras" width="26px" src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png" />
-      <img align="left" alt="sklearn" width="26px" src="https://hadrienj.github.io/assets/images/icons/sklearn.png" />
-      <img align="left" alt="pandas" width="26px" src="https://p.kindpng.com/picc/s/16-161512_panda-kawaii-tumblr-blackandwhite-panda-sticker-png-transparent.png" />
-      <img align="left" alt="numpy" width="26px" src="http://teaching.mrsharky.com/theme/icons/numpy_icon.png" />
-      <img align="left" alt="plt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" />
+    - <img title="PyTorch" align="left" alt="torch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" />
+      <img title="Keras" align="left" alt="keras" width="26px" src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png" />
+      <img title="SkLearn" align="left" alt="sklearn" width="26px" src="https://hadrienj.github.io/assets/images/icons/sklearn.png" />
+      <img title="Pandas" align="left" alt="pandas" width="26px" src="https://p.kindpng.com/picc/s/16-161512_panda-kawaii-tumblr-blackandwhite-panda-sticker-png-transparent.png" />
+      <img title="Numpy" align="left" alt="numpy" width="26px" src="http://teaching.mrsharky.com/theme/icons/numpy_icon.png" />
+      <img title="Matplotlib" align="left" alt="plt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" />
     
   - #### Graphical user interface
-    - <img align="left" alt="Pyqt5" width="26px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2FbhBnl6%2FbtqBSOwYDS4%2FWAk4d1DLVs0uyegknM11S1%2Fimg.png" />
-      <img align="left" alt="Pygame" width="66px" src="https://files.realpython.com/media/pygame-logo.e78e57db3000.png" />
+    - <img title="PyQt5" align="left" alt="Pyqt5" width="26px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2FbhBnl6%2FbtqBSOwYDS4%2FWAk4d1DLVs0uyegknM11S1%2Fimg.png" />
+      <img title="Pygame" align="left" alt="Pygame" width="66px" src="https://files.realpython.com/media/pygame-logo.e78e57db3000.png" />
     
   - #### Reports & Presentations
-    - <img align="left" alt="latex" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/600px-TeXShop_icon.png" />
-      <img align="left" alt="office" width="26px" src="https://icons.iconarchive.com/icons/blackvariant/button-ui-microsoft-office-apps/1024/Microsoft-Office-icon.png" />
+    - <img title="LaTeX" align="left" alt="latex" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/600px-TeXShop_icon.png" />
+      <img title="Pack Office" align="left" alt="office" width="26px" src="https://icons.iconarchive.com/icons/blackvariant/button-ui-microsoft-office-apps/1024/Microsoft-Office-icon.png" />
 
   - #### Operating Systems
-    - <img align="left" alt="linux" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" />
-      <img align="left" alt="windows" width="26px" src="https://www.shareicon.net/data/512x512/2015/09/16/101922_windows_512x512.png" /> 
+    - <img title="Linux" align="left" alt="linux" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" />
+      <img title="Windows" align="left" alt="windows" width="26px" src="https://www.shareicon.net/data/512x512/2015/09/16/101922_windows_512x512.png" /> 
 
 
 ## 📈 __STATS__
