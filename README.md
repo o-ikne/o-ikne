@@ -18,7 +18,7 @@
 ## 👩‍💻 __IT SKILLS__
   - #### Languages 
     - <img title="Python" align="left" alt="Python" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" />
-      <img title="R" align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
+      <img title="R" align="left" alt="R" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd33wubrfki0l68.cloudfront.net%2F55f5076aa28f590c7576fd3c53bbdb5c17352a18%2Ff2970%2Fimg%2Frstudio.png&f=1&nofb=1" />
       <img title="Matlab" align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
       <img title="JavaScript" align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
     
