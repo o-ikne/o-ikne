@@ -71,4 +71,4 @@
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Copyright © 2021 Omar Ikne | Github
+Copyright © 2022 Omar Ikne | Github
