@@ -25,6 +25,7 @@
   - #### Databases 
     - <img title="SQL" align="left" alt="sql" width="26px" src="http://www.faceofit.com/wp-content/uploads/2016/04/logoAzureSql.png" />
       <img title="Cypher" align="left" alt="cypher" width="26px" src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" />
+      <img title="XML" align="left" alt="xml" width="26px" src="https://s1.qwant.com/thumbr/0x380/a/c/1aa56529033661ef79454849927f9573767daddb3fd0b9f2cdf375593abbce/xml-icon.png?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fiynque%2Fflat-ios7-style-documents%2F512%2Fxml-icon.png&q=0&b=1&p=0&a=0" />
     
   - #### Data Analysis & Machine Learning
     - <img title="PyTorch" align="left" alt="torch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" />
@@ -34,10 +35,6 @@
       <img title="Pandas" align="left" alt="pandas" width="26px" src="https://p.kindpng.com/picc/s/16-161512_panda-kawaii-tumblr-blackandwhite-panda-sticker-png-transparent.png" />
       <img title="Numpy" align="left" alt="numpy" width="26px" src="http://teaching.mrsharky.com/theme/icons/numpy_icon.png" />
       <img title="Matplotlib" align="left" alt="plt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" />
-    
-  - #### Graphical user interface
-    - <img title="PyQt5" align="left" alt="Pyqt5" width="26px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2FbhBnl6%2FbtqBSOwYDS4%2FWAk4d1DLVs0uyegknM11S1%2Fimg.png" />
-      <img title="Pygame" align="left" alt="Pygame" width="66px" src="https://files.realpython.com/media/pygame-logo.e78e57db3000.png" />
     
   - #### Reports & Presentations
     - <img title="LaTeX" align="left" alt="latex" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/600px-TeXShop_icon.png" />
