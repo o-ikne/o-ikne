@@ -2,11 +2,11 @@
 
 <img align="right" alt="github" width="150px" src="https://o-ikne.github.io/images/qrcode.png" />
 
-- 👋 ```Hello, World !```, I’m __IKNE Omar__
-- 🏫 I'm currently a student in data science at the [University of Lille](https://www.univ-lille.fr/)
-- 👀 I’m interested in Machine Learning, Deep Learning & Artificial Intelligence
+- 🏫 Hi there 👋, I am __Omar Ikne__, a PhD Student in *Machine Learning* at [IMT Nord Europe](https://imt-nord-europe.fr/en/)
+- 👀 I am interested in AI, especially Generative AI.
 - 💞️ I’m looking to collaborate on Machine Learning projects 
 - To know more about me, check out my portfolio 👉 or my CV below 👇
+
 
 ## 📫 __CONTACT__
 
