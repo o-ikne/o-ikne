@@ -2,9 +2,9 @@
 
 <img align="right" alt="github" width="150px" src="https://o-ikne.github.io/images/qrcode.png" />
 
-- Hi there 👋, I am __Omar Ikne__, a PhD Student in *Deep Learning* at [IMT Nord Europe](https://imt-nord-europe.fr/en/)
+- Hi there 👋, I am __Omar Ikne__, a PhD Student in *Deep Learning & Computer Vision* at [IMT Nord Europe](https://imt-nord-europe.fr/en/)
 - I am interested in AI, especially Generative AI.
-- I’m looking to collaborate on Machine Learning projects 
+- I’m looking to collaborate on Deep Learning projects 
 - To know more about me, check out my portfolio 👉 or my CV below 👇
 
 
@@ -33,6 +33,5 @@
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 Copyright © 2024 Omar Ikne | Github
