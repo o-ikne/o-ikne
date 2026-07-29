@@ -1,6 +1,6 @@
 ## 👨‍💼 __ABOUT ME__ !
 
-<img align="right" alt="github" width="150px" src="https://o-ikne.github.io/images/qrcode.png" />
+<img align="right" alt="github" width="150px" src="https://o-ikne.github.io/AboutMe/images/qrcode.png" />
 
 - Hi there 👋, I am __Omar Ikne__, a researcher in *Deep Learning & Computer Vision* at [IMT Nord Europe](https://imt-nord-europe.fr/en/)
 - I am interested in AI, especially Generative AI.
